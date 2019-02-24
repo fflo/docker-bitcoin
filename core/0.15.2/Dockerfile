@@ -9,7 +9,7 @@ RUN set -ex \
 
 ENV BITCOIN_VERSION 0.15.2
 ENV BITCOIN_URL https://bitcoin.org/bin/bitcoin-core-0.15.2/bitcoin-0.15.2-x86_64-linux-gnu.tar.gz
-ENV BITCOIN_SHA256 76bf17d93eaa05916d91fc252fef85bc 
+ENV BITCOIN_SHA256 566be44190fd76daa01f13d428939dadfb8e3daacefc8fa17f433cad28f73bd5 
 ENV BITCOIN_ASC_URL https://bitcoin.org/bin/bitcoin-core-0.15.2/SHA256SUMS.asc
 ENV BITCOIN_PGP_KEY 01EA5486DE18A882D4C2684590C8019E36C2E964
 
