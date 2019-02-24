@@ -1,4 +1,4 @@
-# Docker-Bitcoin
+# Bitcoin on Docker
 
 Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoin is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
 
@@ -21,16 +21,16 @@ To start a bitcoind instance running the latest version:
 $ docker run fflo/bitcoin-core
 ```
 
-This docker image provides different tags so that you can specify the exact version of bitcoin you wish to run. For example, to run the latest minor version in the `0.14.x` series (currently `0.15.1`):
+This docker image provides different tags so that you can specify the exact version of bitcoin you wish to run. For example, to run the latest minor version in the `0.17.x` series (currently `0.17.1`):
 
 ```
-$ docker run fflo/bitcoin-core:0.14.2
+$ docker run fflo/bitcoin-core:0.17.1
 ```
 
-Or, to run the `0.15.1` release specifically:
+Or, to run the `0.17.1` release specifically:
 
 ```
-$ docker run fflo/bitcoin-core:0.15.1
+$ docker run fflo/bitcoin-core:0.17.1
 ```
 
 To run a bitcoin container in the background, pass the `-d` option to `docker run`, and give your container a name for easy reference later:
