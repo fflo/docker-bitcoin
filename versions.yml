@@ -292,52 +292,9 @@ classic:
     sha256: bdb01bddea3c8e6da61fe83eb3662e43e3a16b15d789fc616adc086ad2959134
 
 unlimited:
-  0.11.2:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-0.11.2-linux64.tar.gz
-    sha256: c6e83e5910d6b4ad852ac6d6a9ec6c92001a5070bb51d4292577174f22495355
-  0.12.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-0.12.0-linux64.tar.gz
-    sha256: 5831c3364fbb0dddf37b06303e2573850ba0116d57aee5710c96ee50f7499031
-  0.12.1:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-0.12.1-linux64.tar.gz
-    sha256: 34de171ac1b48b0780d68f3844c9fd2e8bfe6a7780b55e1f012067c2440ebd8a
-  1.0.0.1:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.0.1-linux64.tar.gz
-    sha256: cfedf1a4701cf05f8e8a9ff4da0f887bcb2b3bbdcd7631e9cfdeebb6dff01c72
-  1.0.1.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.1-linux64.tar.gz
-    sha256: bb604081403eefa423fb2911bf6d99258d9db655ece8c3d557f32388c06a6207
-  1.0.1.1:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.1.1-linux64.tar.gz
-    sha256: 68439e21ff6806af2acb64b3d4b60ef9bb47d82ba68fce98752de6cc9d1f4502
-  1.0.1.2:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.1.2-linux64.tar.gz
-    sha256: 5ea1740325b2ad6bcd2c6985d1716186d2f2da54b9d9ab7a9948afa06f15d030
-  1.0.1.3:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.1.3-linux64.tar.gz
-    sha256: 864908c88d6b9d08c64e46b12acb5c1f8418b0737dfbeffdb8b1c03907892b02
-  1.0.1.4:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.1.4-linux64.tar.gz
-    sha256: f82b98f552ae49c7bca011325a5d9374425e78d91c1baac02cba64b358beb563
-  1.0.2.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.2.0-linux64.tar.gz
-    sha256: 3c6dcf8af26def3f204a38340b469448a8ec50de986e2d5934ab3d3eb22ef95f
-  1.0.3.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/bitcoinUnlimited-1.0.3.0-linux64.tar.gz
-    sha256: a6658bac22f082539969a243943c7d1a865abd40cdfe39465ff82b4eba387b22
-  1.1.0.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/BUcash-1.1.0.0-linux64.tar.gz
-    sha256: 0f0375d4e1fc4c66fdd7c5b0fc5c233454ab7c7f9ef2d65236af3975a8ae6189
-    client_version: bucash1.1.0.0
-  1.1.1.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloadHistory/raw/master/BUcash-1.1.1.0-linux64.tar.gz
-    sha256: 562191a290e23adf24e1a0b6863765e8f2afeb2e61e20c9067fb1a8ef0c2ef92
-  1.1.1.1:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloads/raw/master/BUcash-1.1.1.1-linux64.tar.gz
-    sha256: bdc3e07ce2cacc42295d7559fbaae5ae60fed82479c5644ab7293bbea6b79a62
-  1.5.1.0:
-    url: https://github.com/BitcoinUnlimited/BitcoinUnlimitedWebDownloads/raw/master/BUcash-1.5.1.0-linux64.tar.gz
-    sha256: c3a59b79e46a09ea2a3575ac8b1e9f098274084b676fba3e717346916f3e2a8d
+  1.6.0.1:
+    url: https://www.bitcoinunlimited.info/downloads/BUcash-1.6.0.1-linux64.tar.gz
+    sha256: 68023e6faefe7cfee8eee6cffb6200f52d47aa89c305323d97063664b514c94c
   1.7.0.0:
     url: https://www.bitcoinunlimited.info/downloads/BUcash-1.7.0.0-linux64.tar.gz
     sha256: 66345fd4b813f4c5a704ea7fdd60027be467008b10cf32db203146724128d140
