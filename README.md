@@ -19,16 +19,16 @@ To start a bitcoind instance running the latest version:
 $ docker run fflo/bitcoin-core
 ```
 
-This docker image provides different tags so that you can specify the exact version of bitcoin you wish to run. For example, to run the latest minor version in the `0.19.x` series (currently `0.19.1`):
+This docker image provides different tags so that you can specify the exact version of bitcoin you wish to run. For example, to run the latest minor version in the `0.20.x` series (currently `0.20.1`):
 
 ```
-$ docker run fflo/bitcoin-core:0.19.1
+$ docker run fflo/bitcoin-core:0.20.1
 ```
 
-Or, to run the `0.19.1` release specifically:
+Or, to run the `0.20.1` release specifically:
 
 ```
-$ docker run fflo/bitcoin-core:0.19.1
+$ docker run fflo/bitcoin-core:0.20.1
 ```
 
 To run a bitcoin container in the background, pass the `-d` option to `docker run`, and give your container a name for easy reference later:
